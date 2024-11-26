@@ -1,1 +1,1 @@
-# dog_breeds_classification
+# Udacity Project 1: Dog Breed Classification
